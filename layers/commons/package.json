@@ -1,0 +1,14 @@
+{
+  "name": "layer-commons",
+  "description": "Lambda layer with common utils",
+  "main": "index.ts",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "build": "node_modules/typescript/bin/tsc"
+  },
+  "dependencies": {
+    "@types/node": "16.18.23",
+    "typescript": "5.0.4"
+  }
+}

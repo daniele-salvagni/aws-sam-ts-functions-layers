@@ -1,0 +1,16 @@
+{
+  "name": "sam-typescript-functions-layers",
+  "description": "",
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@aws-sdk/types": "3.329.0",
+    "@types/aws-lambda": "8.10.115",
+    "@types/node": "16.18.23",
+    "prettier": "2.8.8",
+    "commons": "file:./layers/commons",
+    "typescript": "5.0.4"
+  }
+}

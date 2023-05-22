@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2021",
+    "preserveConstEnums": true,
+    "resolveJsonModule": true,
+    "noEmit": false,
+    "sourceMap": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./commons"
+  },
+  "exclude": ["node_modules", "**/*.test.ts"]
+}
