@@ -7,7 +7,7 @@
   "scripts": {
     "build": "node_modules/typescript/bin/tsc"
   },
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "16.18.23",
     "typescript": "5.0.4"
   }
